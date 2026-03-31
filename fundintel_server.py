@@ -357,7 +357,7 @@ def fetch_platform_data():
 
 if __name__ == '__main__':
     import os
-    port = int(os.environ.get('PORT', 5001))
+    port = int(os.environ.get('PORT', 8080))
     print("=" * 50)
     print(f"  FundIntel Backend Server v10")
     print(f"  Running on port {port}")

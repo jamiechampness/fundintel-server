@@ -1,0 +1,862 @@
+[
+{
+"isin": "IE00BWGCG836",
+"name": "Emerging Markets Large Cap Core Equity Fund - EUR Accumulation class"
+},
+{
+"isin": "IE00BWGCG943",
+"name": "Emerging Markets Large Cap Core Equity Fund - EUR Distributing class"
+},
+{
+"isin": "IE00BYVJQW70",
+"name": "Emerging Markets Large Cap Core Equity Fund - GBP Accumulation class"
+},
+{
+"isin": "IE00BJV3R984",
+"name": "Emerging Markets Large Cap Core Equity Fund - NOK Accumulation class"
+},
+{
+"isin": "IE00BN44WN56",
+"name": "Emerging Markets Large Cap Core Equity Fund - SEK Accumulation class"
+},
+{
+"isin": "IE00BF20LB02",
+"name": "Emerging Markets Large Cap Core Equity Fund - SGD Accumulation class"
+},
+{
+"isin": "IE00BYVJQT42",
+"name": "Emerging Markets Large Cap Core Equity Fund - USD Accumulation class"
+},
+{
+"isin": "IE00BWGCGB67",
+"name": "Emerging Markets Large Cap Core Equity Fund - USD Z Institutional Accumulation class"
+},
+{
+"isin": "IE00BYVJQV63",
+"name": "Emerging Markets Large Cap Core Equity Fund - USD Distributing class"
+},
+{
+"isin": "IE00BLCGQT35",
+"name": "Emerging Markets Core Equity Lower Carbon ESG Screened Fund - EUR Accumulation class"
+},
+{
+"isin": "IE00BLCGQV56",
+"name": "Emerging Markets Core Equity Lower Carbon ESG Screened Fund - EUR Distributing class"
+},
+{
+"isin": "IE00BLCGQW63",
+"name": "Emerging Markets Core Equity Lower Carbon ESG Screened Fund - GBP Accumulation class"
+},
+{
+"isin": "IE00BLCGQX70",
+"name": "Emerging Markets Core Equity Lower Carbon ESG Screened Fund - GBP Distributing class"
+},
+{
+"isin": "IE00BLCGQZ94",
+"name": "Emerging Markets Core Equity Lower Carbon ESG Screened Fund - USD Accumulation class"
+},
+{
+"isin": "IE00BLCGR125",
+"name": "Emerging Markets Core Equity Lower Carbon ESG Screened Fund - SEK Accumulation class"
+},
+{
+"isin": "IE00BLCGR232",
+"name": "Emerging Markets Core Equity Lower Carbon ESG Screened Fund - NOK Accumulation class"
+},
+{
+"isin": "IE00BLCGQY87",
+"name": "Emerging Markets Core Equity Lower Carbon ESG Screened Fund - SGD Accumulation class"
+},
+{
+"isin": "IE00BLCH4N61",
+"name": "Emerging Markets Core Equity Lower Carbon ESG Screened Fund - JPY Distributing class"
+},
+{
+"isin": "IE00B0HCGV10",
+"name": "Emerging Markets Value Fund - EUR Accumulation class"
+},
+{
+"isin": "IE00B42THM37",
+"name": "Emerging Markets Value Fund - EUR Distributing class"
+},
+{
+"isin": "IE00B0HCGX34",
+"name": "Emerging Markets Value Fund - GBP Accumulation class"
+},
+{
+"isin": "IE00B0HCGW27",
+"name": "Emerging Markets Value Fund - GBP Distributing class"
+},
+{
+"isin": "IE00BMBN2Y92",
+"name": "Emerging Markets Value Fund - JPY Accumulation class"
+},
+{
+"isin": "IE00BMBN2Z00",
+"name": "Emerging Markets Value Fund - JPY Distributing class"
+},
+{
+"isin": "IE00BN898381",
+"name": "Emerging Markets Value Fund - SEK Accumulation class"
+},
+{
+"isin": "IE00B0HCGS80",
+"name": "Emerging Markets Value Fund - USD Accumulation class"
+},
+{
+"isin": "IE00B3WX3B94",
+"name": "Emerging Markets Value Fund - USD Distributing class"
+},
+{
+"isin": "IE00B3N38C44",
+"name": "Euro Inflation Linked Intermediate Duration Fixed Income Fund - EUR Accumulation class"
+},
+{
+"isin": "IE00B3LNHS53",
+"name": "Euro Inflation Linked Intermediate Duration Fixed Income Fund - EUR Distributing class"
+},
+{
+"isin": "IE0032769055",
+"name": "European Small Companies Fund - EUR Accumulation class"
+},
+{
+"isin": "IE00B65J1M22",
+"name": "European Small Companies Fund - EUR Distributing class"
+},
+{
+"isin": "IE00B0701870",
+"name": "European Small Companies Fund - GBP Accumulation class"
+},
+{
+"isin": "IE00B05PYQ31",
+"name": "European Small Companies Fund - GBP Distributing class"
+},
+{
+"isin": "IE0030982288",
+"name": "European Small Companies Fund - USD Accumulation class"
+},
+{
+"isin": "IE00B665FN85",
+"name": "European Small Companies Fund - USD Distributing class"
+},
+{
+"isin": "IE00B1W6CW87",
+"name": "European Value Fund - EUR Accumulation class"
+},
+{
+"isin": "IE00B3NHP925",
+"name": "European Value Fund - EUR Distributing class"
+},
+{
+"isin": "IE00B1W6CY02",
+"name": "European Value Fund - GBP Accumulation class"
+},
+{
+"isin": "IE00B1W6CX94",
+"name": "European Value Fund - GBP Distributing class"
+},
+{
+"isin": "IE00B1W6CV70",
+"name": "European Value Fund - USD Accumulation class"
+},
+{
+"isin": "IE00B3LCJT79",
+"name": "European Value Fund - USD Distributing class"
+},
+{
+"isin": "IE00B2PC0260",
+"name": "Global Core Equity Fund - EUR Accumulation class"
+},
+{
+"isin": "IE00B3M0BZ05",
+"name": "Global Core Equity Fund - EUR Distributing class"
+},
+{
+"isin": "IE00B2PC0484",
+"name": "Global Core Equity Fund - GBP Accumulation class"
+},
+{
+"isin": "IE00B2PC0377",
+"name": "Global Core Equity Fund - GBP Distributing class"
+},
+{
+"isin": "IE00BMBN2T40",
+"name": "Global Core Equity Fund - JPY Accumulation class"
+},
+{
+"isin": "IE00BMBN2V61",
+"name": "Global Core Equity Fund - JPY Distributing class"
+},
+{
+"isin": "IE00BN897X17",
+"name": "Global Core Equity Fund - SEK Accumulation class"
+},
+{
+"isin": "IE00BF20L879",
+"name": "Global Core Equity Fund - SGD Accumulation class"
+},
+{
+"isin": "IE00B2PC0153",
+"name": "Global Core Equity Fund - USD Accumulation class"
+},
+{
+"isin": "IE00B3SMQQ66",
+"name": "Global Core Equity Fund - USD Distributing class"
+},
+{
+"isin": "IE0001XFG9I2",
+"name": "Global Core Equity Fund - JPY Accumulation Hedged"
+},
+{
+"isin": "IE00BG85LJ47",
+"name": "Global Core Fixed Income Fund - EUR Accumulation class"
+},
+{
+"isin": "IE00BG85LL68",
+"name": "Global Core Fixed Income Fund - GBP Accumulation class"
+},
+{
+"isin": "IE00BG85LM75",
+"name": "Global Core Fixed Income Fund - GBP Distributing class"
+},
+{
+"isin": "IE00BG85LN82",
+"name": "Global Core Fixed Income Fund - JPY Accumulation class"
+},
+{
+"isin": "IE00BG85LQ14",
+"name": "Global Core Fixed Income Fund - SGD Accumulation class"
+},
+{
+"isin": "IE00BG85LR21",
+"name": "Global Core Fixed Income Fund - SGD Distributing class"
+},
+{
+"isin": "IE00BG85LS38",
+"name": "Global Core Fixed Income Fund - USD Accumulation class"
+},
+{
+"isin": "IE00BG85LK51",
+"name": "Global Core Fixed Income Fund - EUR Distributing class"
+},
+{
+"isin": "IE00B3WGLP80",
+"name": "Global Short Fixed Income Fund - CHF Distributing class"
+},
+{
+"isin": "IE0031719473",
+"name": "Global Short Fixed Income Fund - EUR Accumulation class"
+},
+{
+"isin": "IE00B3QL0Y14",
+"name": "Global Short Fixed Income Fund - EUR Distributing class"
+},
+{
+"isin": "IE00B0701G54",
+"name": "Global Short Fixed Income Fund - GBP Accumulation class"
+},
+{
+"isin": "IE00B05PYX08",
+"name": "Global Short Fixed Income Fund - GBP Distributing class"
+},
+{
+"isin": "IE00BGLC7S32",
+"name": "Global Short Fixed Income Fund - JPY Accumulation class"
+},
+{
+"isin": "IE00BKX45R04",
+"name": "Global Short Fixed Income Fund - JPY Distributing class"
+},
+{
+"isin": "IE00BF003D83",
+"name": "Global Short Fixed Income Fund - NOK Accumulation class"
+},
+{
+"isin": "IE00B2447X33",
+"name": "Global Short Fixed Income Fund - NOK Distributing class"
+},
+{
+"isin": "IE00BN897W00",
+"name": "Global Short Fixed Income Fund - SEK Accumulation class"
+},
+{
+"isin": "IE00B4QKY096",
+"name": "Global Short Fixed Income Fund - SEK Distributing class"
+},
+{
+"isin": "IE00BF20L549",
+"name": "Global Short Fixed Income Fund - SGD Accumulation (hedged) class"
+},
+{
+"isin": "IE0030982627",
+"name": "Global Short Fixed Income Fund - USD Accumulation class"
+},
+{
+"isin": "IE00B3S6T365",
+"name": "Global Short Fixed Income Fund - USD Distributing class"
+},
+{
+"isin": "IE00BFG1RB17",
+"name": "Global Short-Term Investment Grade Fixed Income Fund - CHF Distributing class"
+},
+{
+"isin": "IE00BFG1R338",
+"name": "Global Short-Term Investment Grade Fixed Income Fund - EUR Accumulation class"
+},
+{
+"isin": "IE00BFG1R445",
+"name": "Global Short-Term Investment Grade Fixed Income Fund - EUR Distributing class"
+},
+{
+"isin": "IE00BFG1R551",
+"name": "Global Short-Term Investment Grade Fixed Income Fund - GBP Accumulation class"
+},
+{
+"isin": "IE00BFG1R668",
+"name": "Global Short-Term Investment Grade Fixed Income Fund - GBP Distributing class"
+},
+{
+"isin": "IE00BFG1RC24",
+"name": "Global Short-Term Investment Grade Fixed Income Fund - SEK Accumulation class"
+},
+{
+"isin": "IE00BF20L655",
+"name": "Global Short-Term Investment Grade Fixed Income Fund - SGD Accumulation (hedged) class"
+},
+{
+"isin": "IE00BFG1R007",
+"name": "Global Short-Term Investment Grade Fixed Income Fund - USD Accumulation class"
+},
+{
+"isin": "IE00BFG1R114",
+"name": "Global Short-Term Investment Grade Fixed Income Fund - USD Distributing class"
+},
+{
+"isin": "IE00B67WB637",
+"name": "Global Small Companies Fund - EUR Accumulation class"
+},
+{
+"isin": "IE00B3XNN521",
+"name": "Global Small Companies Fund - EUR Distributing class"
+},
+{
+"isin": "IE00B67QQ264",
+"name": "Global Small Companies Fund - GBP Accumulation class"
+},
+{
+"isin": "IE00B3TGGL29",
+"name": "Global Small Companies Fund - GBP Distributing class"
+},
+{
+"isin": "IE00B3MRDK01",
+"name": "Global Small Companies Fund - USD Accumulation class"
+},
+{
+"isin": "IE00B3NCQG16",
+"name": "Global Small Companies Fund - USD Distributing class"
+},
+{
+"isin": "IE00B7T1D258",
+"name": "Global Core Equity Lower Carbon ESG Screened Fund - EUR Accumulation class"
+},
+{
+"isin": "IE00B8N2Z924",
+"name": "Global Core Equity Lower Carbon ESG Screened Fund - EUR Distributing class"
+},
+{
+"isin": "IE00B7YBX086",
+"name": "Global Core Equity Lower Carbon ESG Screened Fund - GBP Accumulation class"
+},
+{
+"isin": "IE00B8CJRF41",
+"name": "Global Core Equity Lower Carbon ESG Screened Fund - GBP Distributing class"
+},
+{
+"isin": "IE00BKV0RH45",
+"name": "Global Core Equity Lower Carbon ESG Screened Fund - JPY Distributing class"
+},
+{
+"isin": "IE00BJV3R877",
+"name": "Global Core Equity Lower Carbon ESG Screened Fund - NOK Accumulation class"
+},
+{
+"isin": "IE00BN44WM40",
+"name": "Global Core Equity Lower Carbon ESG Screened Fund - SEK Accumulation class"
+},
+{
+"isin": "IE00BLFJC025",
+"name": "Global Core Equity Lower Carbon ESG Screened Fund - SGD Accumulation class"
+},
+{
+"isin": "IE00B8DMPF88",
+"name": "Global Core Equity Lower Carbon ESG Screened Fund - USD Accumulation class"
+},
+{
+"isin": "IE00B60T4288",
+"name": "Global Core Equity Lower Carbon ESG Screened Fund - USD Distributing class"
+},
+{
+"isin": "IE00050X9228",
+"name": "Global Core Equity Lower Carbon ESG Screened Fund - EUR Accumulation (hedged) class"
+},
+{
+"isin": "IE00BKPWG574",
+"name": "Global Core Fixed Income Lower Carbon ESG Screened Fund - EUR Accumulation class"
+},
+{
+"isin": "IE00BKPWG681",
+"name": "Global Core Fixed Income Lower Carbon ESG Screened Fund - EUR Distributing class"
+},
+{
+"isin": "IE00BKPWG798",
+"name": "Global Core Fixed Income Lower Carbon ESG Screened Fund - GBP Accumulation class"
+},
+{
+"isin": "IE00BLFJC249",
+"name": "Global Core Fixed Income Lower Carbon ESG Screened Fund - SGD Accumulation class"
+},
+{
+"isin": "IE00BKPWG806",
+"name": "Global Core Fixed Income Lower Carbon ESG Screened Fund - GBP Distributing class"
+},
+{
+"isin": "IE00BKV0RJ68",
+"name": "Global Core Fixed Income Lower Carbon ESG Screened Fund - JPY Distributing class"
+},
+{
+"isin": "IE00BLCGQS28",
+"name": "Global Core Fixed Income Lower Carbon ESG Screened Fund - SEK Accumulation class"
+},
+{
+"isin": "IE00BKPWG913",
+"name": "Global Core Fixed Income Lower Carbon ESG Screened Fund - USD Accumulation class"
+},
+{
+"isin": "IE000JA3S476",
+"name": "Global Short Fixed Income Lower Carbon ESG Screened Fund - EUR Accumulation class"
+},
+{
+"isin": "IE000TIVIXI5",
+"name": "Global Short Fixed Income Lower Carbon ESG Screened Fund - EUR Distributing class"
+},
+{
+"isin": "IE000MBVK9Q9",
+"name": "Global Short Fixed Income Lower Carbon ESG Screened Fund - GBP Accumulation class"
+},
+{
+"isin": "IE00009DUQ60",
+"name": "Global Short Fixed Income Lower Carbon ESG Screened Fund - GBP Distributing class"
+},
+{
+"isin": "IE000WXY2TK9",
+"name": "Global Short Fixed Income Lower Carbon ESG Screened Fund - USD Accumulation class"
+},
+{
+"isin": "IE000WM8TSQ7",
+"name": "Global Short Fixed Income Lower Carbon ESG Screened Fund - USD Distributing class"
+},
+{
+"isin": "IE000MYU75H0",
+"name": "Global Short Fixed Income Lower Carbon ESG Screened Fund - NOK Distributing class"
+},
+{
+"isin": "IE000J1YLVL6",
+"name": "Global Short Fixed Income Lower Carbon ESG Screened Fund - SEK Accumulation class"
+},
+{
+"isin": "IE000J2TE3M1",
+"name": "Global Short Fixed Income Lower Carbon ESG Screened Fund - AUD Accumulation class"
+},
+{
+"isin": "IE0002GVBP13",
+"name": "Global Targeted Value Lower Carbon ESG Screened Fund - USD Accumulation class"
+},
+{
+"isin": "IE000XNKOYM8",
+"name": "Global Targeted Value Lower Carbon ESG Screened Fund - EUR Accumulation class"
+},
+{
+"isin": "IE000QV5QHF2",
+"name": "Global Targeted Value Lower Carbon ESG Screened Fund - EUR Distributing class"
+},
+{
+"isin": "IE0002VBG0Q9",
+"name": "Global Targeted Value Lower Carbon ESG Screened Fund - GBP Accumulation class"
+},
+{
+"isin": "IE000BW9XDJ7",
+"name": "Global Targeted Value Lower Carbon ESG Screened Fund - GBP Distributing class"
+},
+{
+"isin": "IE000YNL03G1",
+"name": "Global Targeted Value Lower Carbon ESG Screened Fund - SEK Accumulation class"
+},
+{
+"isin": "IE00B2PC0716",
+"name": "Global Targeted Value Fund - EUR Accumulation class"
+},
+{
+"isin": "IE00B6897102",
+"name": "Global Targeted Value Fund - EUR Distributing class"
+},
+{
+"isin": "IE00B2PC0930",
+"name": "Global Targeted Value Fund - GBP Accumulation class"
+},
+{
+"isin": "IE00B2PC0823",
+"name": "Global Targeted Value Fund - GBP Distributing class"
+},
+{
+"isin": "IE00BFNBK823",
+"name": "Global Targeted Value Fund - JPY Accumulation class"
+},
+{
+"isin": "IE00BJV3RB08",
+"name": "Global Targeted Value Fund - NOK Accumulation class"
+},
+{
+"isin": "IE00BN897Z31",
+"name": "Global Targeted Value Fund - SEK Accumulation class"
+},
+{
+"isin": "IE00BF20L986",
+"name": "Global Targeted Value Fund - SGD Accumulation class"
+},
+{
+"isin": "IE00B2PC0609",
+"name": "Global Targeted Value Fund - USD Accumulation class"
+},
+{
+"isin": "IE00B640PD51",
+"name": "Global Targeted Value Fund - USD Distributing class"
+},
+{
+"isin": "IE00BKX45X63",
+"name": "Global Ultra Short Fixed Income Fund - EUR Accumulation class"
+},
+{
+"isin": "IE00BKX45Y70",
+"name": "Global Ultra Short Fixed Income Fund - EUR Distributing class"
+},
+{
+"isin": "IE00B64G4925",
+"name": "Global Ultra Short Fixed Income Fund - GBP Accumulation class"
+},
+{
+"isin": "IE00B64G4818",
+"name": "Global Ultra Short Fixed Income Fund - GBP Distributing class"
+},
+{
+"isin": "IE00BKX45Z87",
+"name": "Global Ultra Short Fixed Income Fund - SEK Accumulation class"
+},
+{
+"isin": "IE00BKX45S11",
+"name": "Global Ultra Short Fixed Income Fund - USD Accumulation class"
+},
+{
+"isin": "IE00B60LX167",
+"name": "Global Value Fund - EUR Accumulation class"
+},
+{
+"isin": "IE00B3NVPH21",
+"name": "Global Value Fund - GBP Accumulation class"
+},
+{
+"isin": "IE00B67NVM27",
+"name": "Global Value Fund - GBP Distributing class"
+},
+{
+"isin": "IE00B687H819",
+"name": "Global Value Fund - USD Accumulation class"
+},
+{
+"isin": "IE0034140511",
+"name": "Pacific Basin Small Companies Fund - EUR Accumulation class"
+},
+{
+"isin": "IE00B3NBJR05",
+"name": "Pacific Basin Small Companies Fund - EUR Distributing class"
+},
+{
+"isin": "IE00B0701D24",
+"name": "Pacific Basin Small Companies Fund - GBP Accumulation class"
+},
+{
+"isin": "IE00B05PYV83",
+"name": "Pacific Basin Small Companies Fund - GBP Distributing class"
+},
+{
+"isin": "IE00BG85LH23",
+"name": "Pacific Basin Small Companies Fund - SGD Accumulation class"
+},
+{
+"isin": "IE0034140404",
+"name": "Pacific Basin Small Companies Fund - USD Accumulation class"
+},
+{
+"isin": "IE00B3RKMY14",
+"name": "Pacific Basin Small Companies Fund - USD Distributing class"
+},
+{
+"isin": "IE00B3PVQJ91",
+"name": "Sterling Inflation Linked Intermediate Duration Fixed Income Fund - GBP Accumulation class"
+},
+{
+"isin": "IE00B3YST251",
+"name": "Sterling Inflation Linked Intermediate Duration Fixed Income Fund - GBP Distributing class"
+},
+{
+"isin": "IE00BYTYVB81",
+"name": "U.S. Core Equity Fund - USD Accumulation class"
+},
+{
+"isin": "IE00BLFJBY96",
+"name": "U.S. Core Equity Fund - SGD Accumulation Class"
+},
+{
+"isin": "IE000WFHV0B9",
+"name": "U.S. Core Equity Fund - GBP Accumulation Class"
+},
+{
+"isin": "IE0032768974",
+"name": "U.S. Small Companies Fund - EUR Accumulation class"
+},
+{
+"isin": "IE00B0701B00",
+"name": "U.S. Small Companies Fund - GBP Accumulation class"
+},
+{
+"isin": "IE00B05PYS54",
+"name": "U.S. Small Companies Fund - GBP Distributing class"
+},
+{
+"isin": "IE0030982171",
+"name": "U.S. Small Companies Fund - USD Accumulation class"
+},
+{
+"isin": "IE00B68NBZ41",
+"name": "U.S. Small Companies Fund - USD Distributing class"
+},
+{
+"isin": "IE00BYTYTX63",
+"name": "World Allocation 20/80 Fund - EUR Accumulation class"
+},
+{
+"isin": "IE00BYTYTY70",
+"name": "World Allocation 20/80 Fund - EUR Distributing class"
+},
+{
+"isin": "IE00BYTYTV40",
+"name": "World Allocation 20/80 Fund - GBP Accumulation class"
+},
+{
+"isin": "IE00BYTYTW56",
+"name": "World Allocation 20/80 Fund - GBP Distributing class"
+},
+{
+"isin": "IE00BKPRGK70",
+"name": "World Allocation 20/80 Fund - SGD Accumulation class"
+},
+{
+"isin": "IE00BYTYTZ87",
+"name": "World Allocation 20/80 Fund - USD Accumulation class"
+},
+{
+"isin": "IE00BZ4BM961",
+"name": "World Allocation 20/80 Fund - JPY Accumulation class"
+},
+{
+"isin": "IE000R0K7A50",
+"name": "World Allocation 20/80 Fund - AUD Accumulation class"
+},
+{
+"isin": "IE00B8Y02V60",
+"name": "World Allocation 40/60 Fund - EUR Accumulation class"
+},
+{
+"isin": "IE00B9L4LR73",
+"name": "World Allocation 40/60 Fund - EUR Distributing (hedged) class"
+},
+{
+"isin": "IE00B56FVB15",
+"name": "World Allocation 40/60 Fund - GBP Accumulation class"
+},
+{
+"isin": "IE00B5KL2L23",
+"name": "World Allocation 40/60 Fund - GBP Distributing class"
+},
+{
+"isin": "IE00BKPRGL87",
+"name": "World Allocation 40/60 Fund - SGD Accumulation class"
+},
+{
+"isin": "IE00BFZ0X665",
+"name": "World Allocation 40/60 Fund - USD Accumulation class"
+},
+{
+"isin": "IE000OU2UGT7",
+"name": "World Allocation 40/60 Fund - JPY Accumulation class"
+},
+{
+"isin": "IE000Y0AJRF3",
+"name": "World Allocation 40/60 Fund - AUD Accumulation class"
+},
+{
+"isin": "IE00B9L4YR86",
+"name": "World Allocation 60/40 Fund - EUR Accumulation class"
+},
+{
+"isin": "IE00B9MC5R88",
+"name": "World Allocation 60/40 Fund - EUR Distributing class"
+},
+{
+"isin": "IE00B416SD35",
+"name": "World Allocation 60/40 Fund - GBP Accumulation class"
+},
+{
+"isin": "IE00B44MYD08",
+"name": "World Allocation 60/40 Fund - GBP Distributing class"
+},
+{
+"isin": "IE00BG85LG16",
+"name": "World Allocation 60/40 Fund - SGD Accumulation class"
+},
+{
+"isin": "IE00BFZ0X772",
+"name": "World Allocation 60/40 Fund - USD Accumulation class"
+},
+{
+"isin": "IE000QYH4NC3",
+"name": "World Allocation 60/40 Fund - JPY Accumulation class"
+},
+{
+"isin": "IE000EKY0VW1",
+"name": "World Allocation 60/40 Fund - AUD Accumulation class"
+},
+{
+"isin": "IE00BYTYV309",
+"name": "World Allocation 80/20 Fund - EUR Accumulation class"
+},
+{
+"isin": "IE00BYTYV416",
+"name": "World Allocation 80/20 Fund - EUR Distributing class"
+},
+{
+"isin": "IE00BYTYV184",
+"name": "World Allocation 80/20 Fund - GBP Accumulation class"
+},
+{
+"isin": "IE00BYTYV291",
+"name": "World Allocation 80/20 Fund - GBP Distributing class"
+},
+{
+"isin": "IE00BKPRGG35",
+"name": "World Allocation 80/20 Fund - SGD Accumulation class"
+},
+{
+"isin": "IE00BYTYV523",
+"name": "World Allocation 80/20 Fund - USD Accumulation class"
+},
+{
+"isin": "IE000QT3E3V8",
+"name": "World Allocation 80/20 Fund - JPY Accumulation Class"
+},
+{
+"isin": "IE000VIO8BL4",
+"name": "World Allocation 80/20 Fund - AUD Accumulation class"
+},
+{
+"isin": "IE00B4MJ5D07",
+"name": "World Equity Fund - EUR Accumulation class"
+},
+{
+"isin": "IE00B53RD369",
+"name": "World Equity Fund - EUR Distributing class"
+},
+{
+"isin": "IE00B3Z8MM50",
+"name": "World Equity Fund - GBP Accumulation class"
+},
+{
+"isin": "IE00B5SRBK47",
+"name": "World Equity Fund - GBP Distributing class"
+},
+{
+"isin": "IE00BN898167",
+"name": "World Equity Fund - SEK Accumulation class"
+},
+{
+"isin": "IE00BN898274",
+"name": "World Equity Fund - SEK Distributing class"
+},
+{
+"isin": "IE00BF20L762",
+"name": "World Equity Fund - SGD Accumulation class"
+},
+{
+"isin": "IE00B3V7VL84",
+"name": "World Equity Fund - USD Accumulation class"
+},
+{
+"isin": "IE00B458ZH80",
+"name": "World Equity Fund - USD Distributing class"
+},
+{
+"isin": "IE000UPTU0B6",
+"name": "World Equity Fund - GBP Accumulation (hedged) class"
+},
+{
+"isin": "IE000NP6N8H7",
+"name": "World Equity Fund - JPY Accumulation Class"
+},
+{
+"isin": "IE000XRAI579",
+"name": "World Equity Fund - AUD Accumulation class"
+},
+{
+"isin": "IE0001L9WEV8",
+"name": "World Equity Lower Carbon ESG Screened Fund - NOK Accumulation class"
+},
+{
+"isin": "IE000NI56WV8",
+"name": "World Equity Lower Carbon ESG Screened Fund - EUR Accumulation class"
+},
+{
+"isin": "IE000A2PTTN4",
+"name": "World Equity Lower Carbon ESG Screened Fund - EUR Distributing class"
+},
+{
+"isin": "IE0004AHP0R3",
+"name": "World Equity Lower Carbon ESG Screened Fund - GBP Accumulation class"
+},
+{
+"isin": "IE000VWAU7M9",
+"name": "World Equity Lower Carbon ESG Screened Fund - GBP Distributing class"
+},
+{
+"isin": "IE000KF8GKU6",
+"name": "World Equity Lower Carbon ESG Screened Fund - SEK Accumulation class"
+},
+{
+"isin": "IE000X0YGVE5",
+"name": "Global High Profitability Lower Carbon ESG Screened Fund - EUR Accumulation class"
+},
+{
+"isin": "IE000JH3AOP3",
+"name": "Global High Profitability Lower Carbon ESG Screened Fund - EUR Distributing class"
+},
+{
+"isin": "IE000ZDYPKY6",
+"name": "Global High Profitability Lower Carbon ESG Screened Fund - GBP Accumulation class"
+},
+{
+"isin": "IE000BWBU2P6",
+"name": "Global High Profitability Lower Carbon ESG Screened Fund - GBP Distributing class"
+},
+{
+"isin": "IE000XU4JRI5",
+"name": "Global High Profitability Lower Carbon ESG Screened Fund - USD Accumulation class"
+}
+]
